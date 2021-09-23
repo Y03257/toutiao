@@ -1,6 +1,9 @@
 <template>
   <div id="app">
     <h1>黑马头条</h1>
+    <div class="a"> 
+
+    </div>
     <div><i class="iconfont icon-fenxiang"></i></div>
     <van-button type="primary">主要按钮</van-button>
     <van-button type="info">信息按钮</van-button>
@@ -16,4 +19,9 @@ export default {
 };
 </script>
 <style lang="less">
+.a{
+  width: 100px;
+  height: 200px;
+  background-color: aqua;
+}
 </style>
