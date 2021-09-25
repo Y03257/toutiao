@@ -1,7 +1,7 @@
 @font-face {
   font-family: "iconfont";
   /* Project id 2828085 */
-  src: url('iconfont.woff2?t=1632311826020') format('woff2'), url('iconfont.woff?t=1632311826020') format('woff'), url('iconfont.ttf?t=1632311826020') format('truetype');
+  src: url('//at.alicdn.com/t/font_2828085_u4z3lvub1hn.woff2?t=1632313782251') format('woff2'), url('//at.alicdn.com/t/font_2828085_u4z3lvub1hn.woff?t=1632313782251') format('woff'), url('//at.alicdn.com/t/font_2828085_u4z3lvub1hn.ttf?t=1632313782251') format('truetype');
 }
 .iconfont {
   font-family: "iconfont" !important;
@@ -72,4 +72,13 @@
 }
 .icon-lishi:before {
   content: "\e609";
+}
+body {
+  background-color: #f5f7f9;
+}
+.page-nav-bar {
+  background-color: #3296fa;
+}
+.page-nav-bar .van-nav-bar__title {
+  color: #fff;
 }
